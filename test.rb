@@ -1,4 +1,7 @@
 class Git
- def test
+ def get
+ end
+
+ def add
  end 
 end
