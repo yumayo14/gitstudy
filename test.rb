@@ -22,4 +22,7 @@ class Git
 
   def seven
   end
+
+  def eight
+  end
 end
