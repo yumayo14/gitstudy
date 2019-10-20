@@ -1,7 +1,10 @@
 class Git
- def get
- end
+  def test
+  end
 
- def add
- end 
+  def one
+  end
+
+  def two
+  end 
 end
