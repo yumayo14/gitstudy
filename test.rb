@@ -16,4 +16,7 @@ class Git
 
   def five
   end
+
+  def six
+  end
 end
