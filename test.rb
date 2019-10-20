@@ -13,4 +13,13 @@ class Git
   
   def four
   end 
+
+  def five
+  end
+
+  def six
+  end
+
+  def seven
+  end
 end
