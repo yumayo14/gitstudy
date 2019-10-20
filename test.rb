@@ -20,6 +20,9 @@ class Git
   def six
   end
 
+  def seven
+  end
+
   def eight
   end
 end
